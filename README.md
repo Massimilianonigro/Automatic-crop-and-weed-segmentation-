@@ -5,4 +5,4 @@ Part of the [1st ACRE Cascade Competition](https://competitions.codalab.org/comp
   <img src="https://i.ibb.co/7y542N2/Bipbip-haricot-im-00321.png" width="350">
 </p>
 In this competition, ACRE organizers asked to segment RGB images to distinguish between crop, weeds, and background. As shown above.
-Report of the solution adopted can be found at the [beginning of the notebook](https://github.com/Massimilianonigro/Automatic-crop-and-weed-segmentation-/blob/main/Automatic_crop_and_weed_segmentation.ipynb).
+Report of the solution adopted can be found at the <a href="https://github.com/Massimilianonigro/Automatic-crop-and-weed-segmentation-/blob/main/Automatic_crop_and_weed_segmentation.ipynb">beginning of the notebook</a>
